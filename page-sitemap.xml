@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//robotsfollow.me/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//jolly-wiles-e16e00.netlify.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://robotsfollow.me/</loc>
+		<loc>https://jolly-wiles-e16e00.netlify.com/</loc>
 		<lastmod>2019-11-26T16:11:09+00:00</lastmod>
 		<image:image>
-			<image:loc>http://robotsfollow.me/wp-content/uploads/2019/07/IMG_1091.jpg</image:loc>
+			<image:loc>https://jolly-wiles-e16e00.netlify.com/wp-content/uploads/2019/07/IMG_1091.jpg</image:loc>
 			<image:title><![CDATA[IMG_1091]]></image:title>
 		</image:image>
 		<image:image>
-			<image:loc>http://robotsfollow.me/wp-content/uploads/2019/08/landingpage2.png</image:loc>
+			<image:loc>https://jolly-wiles-e16e00.netlify.com/wp-content/uploads/2019/08/landingpage2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://robotsfollow.me/wp-content/uploads/2019/08/theme-install.png</image:loc>
+			<image:loc>https://jolly-wiles-e16e00.netlify.com/wp-content/uploads/2019/08/theme-install.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
